@@ -40,8 +40,8 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yash-kasera/Navitra.git
-    cd Navitra/intelligent-travel-platform
+    git clone https://github.com/ashwikarai22-droid/Navitra.git
+cd Navitra/intelligent-travel-platform
     ```
 
 2.  **Install dependencies:**
