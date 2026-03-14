@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 608185e8fb1f7d8d87ae03db1fff98c8f216ba7b
 # Navitra: Intelligent End-to-End Travel Planning & Hospitality Management Platform
 
 Navitra is a comprehensive ecosystem designed for modern travel management, catering to Travelers, Tour Guides, and Hotel Managers. Built with Next.js and Supabase, it provides a seamless and responsive platform for planning, booking, and managing every aspect of the travel experience.
@@ -39,7 +43,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yash-kasera/Navitra.git
+    git clone https://github.com/ashwikarai22-droid/Navitra.git
     cd Navitra/intelligent-travel-platform
     ```
 
